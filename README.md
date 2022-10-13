@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, i'm Luiz Neto, 
+
+Full Stack Developer stundent focused on web developing using technologies such as JavaScript, HTML, CSS, NodeJs, Jest, React, Redux, Context API, and React testing library. Extremely interested and motivated to contribute in a development environment, always willing to dedicate myself to practice, develop, learn, and comunicate.
 
 <!--
 **luizdefreitas10/luizdefreitas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
