@@ -18,7 +18,7 @@ Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   
 Check my Portfolio:
-![Badge](https://my-frontend-portfolio-two.vercel.app/)
+<link rel="stylesheet" href="https://my-frontend-portfolio-two.vercel.app/">
 
 
 <!--
