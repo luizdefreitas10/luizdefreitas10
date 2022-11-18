@@ -18,9 +18,11 @@ Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   
 Check my Portfolio:
+
 <a href="https://my-frontend-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-blue" target="_blank">
   
 Contact me: 
+
 <a href = "luizdefreitas10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiz-de-freitas-lima-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
