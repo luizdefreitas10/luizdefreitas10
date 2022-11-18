@@ -2,7 +2,7 @@
 
 Full Stack Developer stundent focused on web developing using technologies such as JavaScript, HTML, CSS, NodeJs, Jest, React, Redux, Context API, and React testing library. Extremely interested and motivated to contribute in a development environment, always willing to dedicate myself to practice, develop, learn, and comunicate.
 
-Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.com">. These are some technologies that I have been working with:
+Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.com"></a>. These are some technologies that I have been working with:
   
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@ Check my Portfolio:
   
 Contact me: 
 
-<a href = "luizdefreitas10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "luizdefreitas10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> → luizdefreitas10@gmail.com
 <a href="https://www.linkedin.com/in/luiz-de-freitas-lima-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <a href="https://github.com/luizdefreitas10">
