@@ -19,12 +19,12 @@ Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.
   
 Check my Portfolio:
 
-<a href="https://my-frontend-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-blue" target="_blank">
+<a href="https://my-frontend-portfolio-two.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=appveyor" target="_blank">
   
 Contact me: 
 
-<a href = "luizdefreitas10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> → luizdefreitas10@gmail.com
 <a href="https://www.linkedin.com/in/luiz-de-freitas-lima-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "luizdefreitas10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> → luizdefreitas10@gmail.com
   
 <a href="https://github.com/luizdefreitas10">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizdefreitas10&layout=compact&langs_count=7&theme=dracula"/>
