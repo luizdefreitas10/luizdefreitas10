@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Luiz Neto, 
+### Hi there 👋, i'm Luiz de Freitas, 
 
 Full Stack Developer stundent focused on web developing. Extremely interested and motivated to contribute in a development environment, always willing to dedicate myself to practice, develop, learn, and comunicate.
 
