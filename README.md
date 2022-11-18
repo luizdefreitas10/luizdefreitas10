@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Luiz Neto, 
 
-Full Stack Developer stundent focused on web developing using technologies such as JavaScript, HTML, CSS, NodeJs, Jest, React, Redux, Context API, and React testing library. Extremely interested and motivated to contribute in a development environment, always willing to dedicate myself to practice, develop, learn, and comunicate.
+Full Stack Developer stundent focused on web developing. Extremely interested and motivated to contribute in a development environment, always willing to dedicate myself to practice, develop, learn, and comunicate.
 
 Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.com">Trybe</a>. These are some technologies that I have been working with:
   
