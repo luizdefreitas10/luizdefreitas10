@@ -18,6 +18,12 @@ Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )
+![image](https://img.shields.io/badge/Django%20REST%20Framework-8F45B3?style=for-the-badge&logo=django&logoColor=white
+)
+![image](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white
+)
+![image](https://img.shields.io/badge/CORS-43853D?style=for-the-badge&logo=api&logoColor=white
+)
 
 
   
