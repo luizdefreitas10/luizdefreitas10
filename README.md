@@ -24,6 +24,12 @@ Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.
 )
 ![image](https://img.shields.io/badge/CORS-43853D?style=for-the-badge&logo=api&logoColor=white
 )
+![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+)
+![image](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+)
+![image](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black
+)
 
 
   
