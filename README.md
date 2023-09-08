@@ -1,8 +1,8 @@
 ### Hi there 👋, i'm Luiz de Freitas, 
 
-Full Stack Developer stundent focused on web developing. Extremely interested and motivated to contribute in a development environment, always willing to dedicate myself to practice, develop, learn, and comunicate.
+Full Stack Developer focused on web developing. Extremely interested and motivated to contribute in a development environment, always willing to dedicate myself to practice, develop, learn, and comunicate.
 
-Currently, I am studying to be a Full Stack web developer at <a href="www.trybe.com">Trybe</a>. These are some technologies that I have been working with:
+These are some technologies that I have been working with:
   
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
