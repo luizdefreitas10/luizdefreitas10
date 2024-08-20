@@ -36,7 +36,7 @@ These are some technologies that I have been working with:
   
 Check my Portfolio:
 
-<a href="https://portfolio-dev-luiz.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=appveyor" target="_blank">
+<a href="https://portfoliodev-kappa.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=appveyor" target="_blank">
   
 Contact me: 
 
